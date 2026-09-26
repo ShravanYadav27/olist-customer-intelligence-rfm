@@ -140,7 +140,7 @@ Connects segmentation with business action through:
 - Segment-specific recommended actions
 - Geographic and behavioral filtering
 
-![Geography and Recommended Actions](reports/dashboard_screenshots/03_geography_actions.png)
+![Geography and Recommended Actions](reports/dashboard_screenshots/03_geography_and_actions.png)
 
 ## Business Recommendations
 
